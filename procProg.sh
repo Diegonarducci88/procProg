@@ -5,7 +5,8 @@
 #Versão 0.1a -> Versão inicial.
 ######################################################
 #Programa utiliza o cmd ps para localizar qual programa ou cmd foi imediatamente aberto ou fechado.
-#Criei esse script por uma necessidade minha em localizar o que foi executado no linux, facilitando minha vida para localizar em vez de ficar procurando o proigrama atravez do programa PS
+#Criei esse script por uma necessidade minha em localizar o que foi executado no linux, 
+# facilitando minha vida para localizar em vez de ficar procurando o programa através do programa PS
 
 ######################################################
 
